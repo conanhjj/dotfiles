@@ -1,0 +1,23 @@
+[core]
+    editor = vim
+
+[user]
+	name = conanhjj
+    email = conanhjj@gmail.com
+
+[color]
+    status = auto
+    branch = auto
+    ui = auto
+    diff = auto
+    interactive = auto
+
+[alias]
+    lg = log --graph --all --pretty=short --decorate=short
+    lgm = log --graph --all --pretty=medium --decorate=short
+    st = status
+    bch = branch
+    co = checkout
+    ci = commit
+[push]
+#default = simple

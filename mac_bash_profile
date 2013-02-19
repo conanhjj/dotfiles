@@ -1,0 +1,9 @@
+#alias ls='ls -Gp'
+
+export CLICOLOR=1
+export LSCOLORS=ExFxCxDxBxegedabagacad
+export EDITOR=/usr/bin/vi
+
+export PATH=$PATH:~/bin
+
+ps1='Wind:\W \u\$ '

@@ -22,5 +22,5 @@ syntax on
 filetype plugin on
 filetype indent on
 
-
+au FileType gitcommit set tw=160
 

@@ -1,5 +1,6 @@
 [core]
     editor = vim
+    pager = less -+$LESS -FRX
 
 [user]
 	name = conanhjj
@@ -21,3 +22,6 @@
     ci = commit
 [push]
 #default = simple
+
+[svn]
+    rmdir = true

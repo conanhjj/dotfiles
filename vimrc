@@ -1,3 +1,5 @@
+# Install jellybeans
+# https://github.com/nanotech/jellybeans.vim
 let mapleader=","
 
 let maplocalleader="\\"
